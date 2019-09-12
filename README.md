@@ -1,1 +1,1 @@
-# TriviaGame-GH-pages
+# TriviaGame
